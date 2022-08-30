@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# TECHNICAL TEST TO UNION AVATARS
+
+This projcet was made with React and Three.JS.
+Render of avatar from Union avatars API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
